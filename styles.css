@@ -45,3 +45,23 @@ main {
   display: block;
   border-radius: 10px;
 }
+
+.info {
+  font-family: Outfit, sans-serif;
+}
+
+.title {
+  font-size: 22px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  font-weight: bold;
+  color: var(--slate-900);
+  margin-bottom: 15px;
+}
+
+.description {
+  font-size: 15px;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+  color: var(--slate-500);
+}

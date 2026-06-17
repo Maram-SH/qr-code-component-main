@@ -20,3 +20,14 @@ body {
   align-items: center;
   text-align: center;
 }
+
+main {
+  background-color: var(--white);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 320px;
+  height: 500px;
+}
